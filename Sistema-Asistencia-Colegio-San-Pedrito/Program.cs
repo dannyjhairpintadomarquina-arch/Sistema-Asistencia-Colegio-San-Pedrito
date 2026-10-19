@@ -1,0 +1,20 @@
+﻿using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sistema_Asistencia_Colegio_San_Pedrito
+     //El Colegio San Pedrito presenta dificultades en el control de asistencia y puntualidad de los niños del aula de 4 años, debido al uso de una carpeta física y agendas escolares. Este proceso genera confusiones al registrar la asistencia y demoras cuando los niños no llevan sus agendas.
+     //Los principales afectados son la docente, los niños y sus padres de familia.Como consecuencia, se producen errores en los registros, dificultades para contabilizar las faltas y tardanzas, y pérdida de tiempo en las actividades escolares.
+     //Por ello, se propone implementar un sistema informático que facilite el registro y control de la asistencia y puntualidad durante el año 2026.
+
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
